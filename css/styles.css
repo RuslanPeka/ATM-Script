@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(32, 178, 171, 0.3), white, rgb(144, 238, 144, 0.3));
+}
+
+.workSpace {
+    margin: 0 auto;
+    width: 700px;
+    border: 2px solid black;
+}
+.workSpace a {
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    outline: 1px solid green;
+}
+
+.workSpaceMain {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+    border: 2px solid black;
+}
+.workSpaceMain a {
+    margin: 0 auto;
+    text-decoration: none;
+    font-size: 30px;
+    outline: 1px solid green;
+}
+
+.workSpacePin {
+    margin: 0 auto;
+    padding: 10px;
+    width: 700px;
+    border: 2px solid black;
+}
+.workSpacePin a {
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    outline: 1px solid green;
+}
+
+.beginingButton {
+    margin: 0 auto;
+    padding: 5px;
+    width: 200px;
+    border: 1px solid green;
+}
+
+hr {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.authentication {
+    margin: 0 auto;
+    width: 700px;
+    border: 2px solid black;
+}
+.authentication a {
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    outline: 1px solid green;
+}
+.authentication form {
+    margin: 0 auto;
+    padding: 10px;
+    width: 60%;
+    text-align: center;
+}
+.authentication form table {
+    text-align: left;
+}
+.authentication form hr {
+    width: 100%;
+}
+.authentication form button {
+    padding: 5px;
+    font-size: 20px;
+}
